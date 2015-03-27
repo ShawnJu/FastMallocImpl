@@ -1,4 +1,4 @@
-#Fast Malloc Implementation
+##Fast Malloc Implementation
 PURPOSE
 	mm is a signal-handler-safe dynamic memory manager that has generally better performance than malloc. Packet_sender and packet_receiver are a server-client suite resembling TCP server and client. Receiver is able to reassemble out-of-order packets into a complete message.
 	
